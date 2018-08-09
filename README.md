@@ -8,4 +8,12 @@ get a sense of scale. Did some weapons have much weaker attributes in the beginn
 
 All of this data is scraped from the NieR Autamata wiki. I mainly used pandas html decoding instead of getting the table information from hand.
 
+This git has 3 main files. 
+
+1. The python script to scrape data from the wiki. (Scrape_Nier_Data)
+2. The csv_data output. (Weapon_Data)
+3. The Jupyter notebook containing the organizing and data cleaning. (Nier_Cleaning_Visualization)
+
+This will be developing as I have time to work on it outside of work (seldom these days...)
+
 As always more to come!
